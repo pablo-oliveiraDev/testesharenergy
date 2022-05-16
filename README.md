@@ -53,7 +53,14 @@ agora va na pasta da api => database => createSql
  
 
  só será necessario fazer isso uma vez...depois da primeira basta ir no cmd navegar até a pasta do projeto api onde esta o arquivo yml e executar docker-compose start
-
+ 
+ * # Mais infromações https://docs.docker.com/desktop/windows/install/
+ 
+ 
+   
+   
+   
+   
  #                              O Projeto
 
 ### Página inicial 
